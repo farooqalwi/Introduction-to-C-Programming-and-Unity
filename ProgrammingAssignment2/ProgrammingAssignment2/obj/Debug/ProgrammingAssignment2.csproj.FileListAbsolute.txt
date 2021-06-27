@@ -1,0 +1,18 @@
+D:\Dropbox\Coursera C# Unity\1 Intro C# Prog Unity\Module 2 Classes and Objects\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ProgrammingAssignment2.exe.config
+D:\Dropbox\Coursera C# Unity\1 Intro C# Prog Unity\Module 2 Classes and Objects\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ProgrammingAssignment2.exe
+D:\Dropbox\Coursera C# Unity\1 Intro C# Prog Unity\Module 2 Classes and Objects\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ProgrammingAssignment2.pdb
+D:\Dropbox\Coursera C# Unity\1 Intro C# Prog Unity\Module 2 Classes and Objects\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ConsoleCards.dll
+D:\Dropbox\Coursera C# Unity\1 Intro C# Prog Unity\Module 2 Classes and Objects\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.csprojAssemblyReference.cache
+D:\Dropbox\Coursera C# Unity\1 Intro C# Prog Unity\Module 2 Classes and Objects\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.csproj.CoreCompileInputs.cache
+D:\Dropbox\Coursera C# Unity\1 Intro C# Prog Unity\Module 2 Classes and Objects\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.csproj.CopyComplete
+D:\Dropbox\Coursera C# Unity\1 Intro C# Prog Unity\Module 2 Classes and Objects\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.exe
+D:\Dropbox\Coursera C# Unity\1 Intro C# Prog Unity\Module 2 Classes and Objects\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.pdb
+D:\Computer\Project Files\My developed projects\Introduction-to-C-Sharp-Programming-and-Unity\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ProgrammingAssignment2.exe.config
+D:\Computer\Project Files\My developed projects\Introduction-to-C-Sharp-Programming-and-Unity\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ProgrammingAssignment2.exe
+D:\Computer\Project Files\My developed projects\Introduction-to-C-Sharp-Programming-and-Unity\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ProgrammingAssignment2.pdb
+D:\Computer\Project Files\My developed projects\Introduction-to-C-Sharp-Programming-and-Unity\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ConsoleCards.dll
+D:\Computer\Project Files\My developed projects\Introduction-to-C-Sharp-Programming-and-Unity\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.csprojAssemblyReference.cache
+D:\Computer\Project Files\My developed projects\Introduction-to-C-Sharp-Programming-and-Unity\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.csproj.CoreCompileInputs.cache
+D:\Computer\Project Files\My developed projects\Introduction-to-C-Sharp-Programming-and-Unity\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.csproj.CopyComplete
+D:\Computer\Project Files\My developed projects\Introduction-to-C-Sharp-Programming-and-Unity\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.exe
+D:\Computer\Project Files\My developed projects\Introduction-to-C-Sharp-Programming-and-Unity\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.pdb
